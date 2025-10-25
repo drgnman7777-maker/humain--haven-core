@@ -1,0 +1,8 @@
+_site/
+.jekyll-cache/
+.DS_Store
+Thumbs.db
+.env
+config.json.local
+data/
+cache/
